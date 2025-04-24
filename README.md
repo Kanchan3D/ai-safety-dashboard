@@ -19,8 +19,8 @@ A visually engaging and interactive dashboard to report, filter, and track AI sa
 
 ## 📸 Preview
 
-![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/s1.png)
-![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/s2.png)
+![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/screenshot/s1.png)
+![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/screenshot/s2.png)
 
 ---
 
