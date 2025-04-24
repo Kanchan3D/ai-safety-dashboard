@@ -1,12 +1,39 @@
-# React + Vite
+# 🧠 AI Safety Incident Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging and interactive dashboard to report, filter, and track AI safety-related incidents. This project highlights issues such as biased algorithms, hallucinations in LLMs, and data leaks. Built using **React**, **Tailwind CSS**, **Framer Motion**, and more for a seamless UI/UX experience.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [ai-kanchan.vercel.app](https://ai-kanchan.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📋 **Incident Reporting Form** with custom dropdowns and smooth validation.
+- 🔍 **Severity-Based Filtering** (Low, Medium, High, All).
+- 📊 **Date Sorting** (Newest First or Oldest First).
+- 🎨 **Responsive UI** styled with Tailwind CSS.
+- ✨ **Animations** powered by Framer Motion.
+- 🛠️ Easily extendable and developer-friendly structure.
+
+---
+
+## 📸 Preview
+
+![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/s1.png)
+![AI Safety Dashboard Preview](https://raw.githubusercontent.com/Kanchan3D/ai-safety-dashboard/main/public/s2.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Component-based frontend
+- **Tailwind CSS** – Utility-first CSS framework
+- **Framer Motion** – Animations and transitions
+- **Lucide Icons** – Clean, customizable icon set
+- **React Toastify** – Toast notifications
+- **Vite** – Fast development build tool
+
+---
+
+## 📁 Folder Structure
+
