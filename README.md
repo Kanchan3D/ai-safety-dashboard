@@ -35,5 +35,41 @@ A visually engaging and interactive dashboard to report, filter, and track AI sa
 
 ---
 
+## 🧑‍💻 Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Kanchan3D/ai-safety-dashboard.git
+cd ai-safety-dashboard
+```
+### 2. Install Dependencies
+
+```
+npm install
+```
+
+### 3. Start the Development Server
+
+```
+npm run dev
+```
+
 ## 📁 Folder Structure
 
+```kotlin
+ai-safety-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── IncidentFilter.jsx
+│   │   ├── IncidentSort.jsx
+│   │   ├── IncidentList.jsx
+│   │   └── IncidentForm.jsx
+│   ├── data/
+│   │   └── mockIncidents.js
+│   └── App.jsx
+├── tailwind.config.js
+└── package.json
